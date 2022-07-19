@@ -1,0 +1,12 @@
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.deps.json
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.AssemblyInfo.cs
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/refint/Ordering.Domain.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/ref/Ordering.Domain.dll

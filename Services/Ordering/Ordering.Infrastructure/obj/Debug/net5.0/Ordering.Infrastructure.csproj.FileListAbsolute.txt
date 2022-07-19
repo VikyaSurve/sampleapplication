@@ -1,0 +1,17 @@
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Infrastructure.deps.json
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Infrastructure.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Infrastructure.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Application.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Application.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.AssemblyInfo.cs
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.csproj.CopyComplete
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/refint/Ordering.Infrastructure.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/ref/Ordering.Infrastructure.dll

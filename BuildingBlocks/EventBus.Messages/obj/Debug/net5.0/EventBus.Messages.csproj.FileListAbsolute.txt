@@ -1,0 +1,12 @@
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/bin/Debug/net5.0/EventBus.Messages.deps.json
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/bin/Debug/net5.0/EventBus.Messages.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/bin/Debug/net5.0/EventBus.Messages.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.AssemblyInfo.cs
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/refint/EventBus.Messages.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/EventBus.Messages.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/obj/Debug/net5.0/ref/EventBus.Messages.dll

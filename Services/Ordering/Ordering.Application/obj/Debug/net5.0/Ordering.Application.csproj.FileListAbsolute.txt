@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.deps.json
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.AssemblyInfo.cs
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.CopyComplete
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/refint/Ordering.Application.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/ref/Ordering.Application.dll

@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "riKo9KNkt2C3ODaI0uSqg/g20hQNmCfS8LKdlKeRV57cvN3dJHE878j/+VxAQ7cJ5V2u0f3jplO1mvIArJULvA==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

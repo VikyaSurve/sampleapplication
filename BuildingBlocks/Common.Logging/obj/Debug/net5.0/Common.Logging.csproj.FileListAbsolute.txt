@@ -1,0 +1,12 @@
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/bin/Debug/net5.0/Common.Logging.deps.json
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/bin/Debug/net5.0/Common.Logging.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/bin/Debug/net5.0/Common.Logging.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.AssemblyInfo.cs
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/refint/Common.Logging.dll
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/Common.Logging.pdb
+/Users/admin/Desktop/Azure-DSCP/run-aspnetcore-microservices-master/src/BuildingBlocks/Common.Logging/obj/Debug/net5.0/ref/Common.Logging.dll
